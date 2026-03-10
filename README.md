@@ -2,6 +2,10 @@
 
 A **Unity Editor** window for batch processing textures — resize, reformat, pad to power-of-two, set mipmaps, pack RGBA channels, and build texture atlases — all from a single panel.
 
+## Demo
+
+<video src="TextureToolkit.mp4" controls width="100%"></video>
+
 ## Overview
 
 Working with large texture libraries is slow when settings must be changed one at a time. The Texture Toolbox processes every texture in a selected folder in a single pass, applying whichever combination of operations you enable, then logs the results in the same window.
