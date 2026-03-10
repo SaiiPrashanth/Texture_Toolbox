@@ -4,7 +4,7 @@ A **Unity Editor** window for batch processing textures — resize, reformat, pa
 
 ## Demo
 
-![Demo](TextureToolkit.mp4)
+![Demo](TextureToolkit.gif)
 
 ## Overview
 
